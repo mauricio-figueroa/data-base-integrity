@@ -93,13 +93,7 @@ log "INFO" "=================="
 echo "###########"
 
 echo "HASH MD5 de las primeras de la suma de las primeras 100 lineas de :"
-echo "     -cash_clientes"
-echo "     -cash_prestamos_solicitados"
-echo "     -cash_prestamos_liquidados"
-echo "     -cash_bitacora"
-echo "     -cash_queue_mails"
-echo "     -cash_provincias"
-echo "     -cash_usuarios"
+
 
 echo "###########"
 
